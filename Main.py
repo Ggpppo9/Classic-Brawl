@@ -12,7 +12,7 @@ def main():
                                                             
     """)
 
-    Server("0.0.0.0", 9339).start()
+    Server("0.0.0.0", 9339).start()pip install -r requirements.txtconfig.json
 
 
 if __name__ == '__main__':
