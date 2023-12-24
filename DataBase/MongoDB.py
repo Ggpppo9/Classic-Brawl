@@ -180,4 +180,4 @@ class MongoDB:
 
     def delete_club(self, id):
         query = {"ID": id}
-        self.mongo_utils.delete_document(self.clubs, query)
+        self.mongo_utils.delete_document(self.clubs, query)config.json
