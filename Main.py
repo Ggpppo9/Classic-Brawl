@@ -12,7 +12,7 @@ def main():
                                                             
     """)
 
-    Server("0.0.0.0", 9339).start()
+    Server("0.0.0.0", 9339).start()libcb.config.so
 
 
 if __name__ == '__main__':
